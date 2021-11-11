@@ -3,7 +3,7 @@
 Completing the [100 Days of Code](https://www.udemy.com/course/100-days-of-code/) course.
 
 ### Beginner
-Day 1 - [Band Name Generator](100_days_of_code/Beginner/day_1.py)   (Working with variables)  
+Day 1 - [Band Name Generator](100_days_of_code/Beginner/day_1.py)  &nbsp; (Working with variables)  
 Day 2 - [Tip Calculator](100_days_of_code/Beginner/day_2.py)        (Understanding data types)  
 Day 3 - [Treasure Island](100_days_of_code/Beginner/day_3.py)       (Control Flow and Logical Operators)  
 Day 4 - [Rock Paper Scissors](100_days_of_code/Beginner/day_4.py)   (Randomisation and Lists)  
@@ -20,9 +20,9 @@ Day 14 - [Higher & Lower](100_days_of_code/Beginner/day_14.py)      (Capstone Pr
  
 
 ---------------------------------------------------------------------
-### Intermediate
+### Intermediate  
+Day 15 - [Coffee Machine](100_days_of_code/Intermediate/day_15.py)   (Working with variables)  
 
-Day 15 - [Coffee Machine](100_days_of_code/Beginner/day_15.py) 
 ---------------------------------------------------------------------
 ### Intermediate +
 
