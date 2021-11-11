@@ -4,7 +4,7 @@ Completing the [100 Days of Code](https://www.udemy.com/course/100-days-of-code/
  
 ### Beginner
 
-|              | Nota:                                                     | test |
+|              | Project                                                   | Subject                            |
 |:------------ |:--------------------------------------------------------- |:---------------------------------- |
 |**Day 1**     | [Band Name Generator](100_days_of_code/Beginner/day_1.py) | Working with variables             |
 |**Day 2**     | [Tip Calculator](100_days_of_code/Beginner/day_2.py)      | Understanding data types           |
@@ -23,7 +23,10 @@ Completing the [100 Days of Code](https://www.udemy.com/course/100-days-of-code/
 
 ---------------------------------------------------------------------
 ### Intermediate  
-Day 15 - [Coffee Machine](100_days_of_code/Intermediate/day_15.py)   (Working with variables)  
+
+|              | Project                                                   | Subject                            |
+|:------------ |:--------------------------------------------------------- |:---------------------------------- |
+|**Day 15**    | [Coffee Machine](100_days_of_code/Intermediate/day_15.py) | Capstone Project                   |  
 
 ---------------------------------------------------------------------
 ### Intermediate +
