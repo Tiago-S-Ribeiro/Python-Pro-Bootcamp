@@ -1,11 +1,6 @@
 # Python Pro Bootcamp
 
-<img align="left" width="170" height="" src="/repo_files/python_logo.png">  
-
-
-
-
----------------------------------------------------------------------  
+[![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](https://github.com/Naereen/StrapDown.js/blob/master/LICENSE)
 
 ### Beginner
 
