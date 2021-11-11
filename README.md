@@ -4,7 +4,9 @@ Completing the [100 Days of Code](https://www.udemy.com/course/100-days-of-code/
 
 ### Beginner
 [Day 1 - Band Name Generator](100_days_of_code/Beginner/day_1.py)
+
 [Day 2 - Tip Calculator](100_days_of_code/Beginner/day_2.py)
+
 [Day 3 - Treasure Island](100_days_of_code/Beginner/day_3.py)
 [Day 4 - Rock Paper Scissors](100_days_of_code/Beginner/day_4.py)
 [Day 5 - Fizz Buzz](100_days_of_code/Beginner/day_5.py)
