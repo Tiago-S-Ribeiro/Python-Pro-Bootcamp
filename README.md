@@ -2,7 +2,6 @@
 
 [![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](https://github.com/Tiago-S-Ribeiro/Python-Pro-Bootcamp/blob/main/LICENSE)
 [![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
-![GitHub commits](https://img.shields.io/github/commits/tiago-s-ribeiro/python-pro-bootcamp)
 ![GitHub last commit](https://img.shields.io/github/last-commit/tiago-s-ribeiro/python-pro-bootcamp)
 
 ### Beginner
