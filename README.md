@@ -1,7 +1,8 @@
 # Python Pro Bootcamp
 
 <img align="left" width="170" height="" src="/repo_files/python_logo.png">  
- 
+---------------------------------------------------------------------
+
 ### Beginner
 
 |              | Project                                                   | Subject                            |
