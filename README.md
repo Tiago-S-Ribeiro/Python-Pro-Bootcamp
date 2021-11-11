@@ -26,7 +26,7 @@ Completing the [100 Days of Code](https://www.udemy.com/course/100-days-of-code/
 
 |              | Project                                                   | Subject                            |
 |:------------ |:--------------------------------------------------------- |:---------------------------------- |
-|**Day 15**    | [Coffee Machine](100_days_of_code/Intermediate/day_15.py) | Capstone Project                   |  
+|**Day 15**    | [Coffee Machine](100_days_of_code/Intermediate/day_15)    | Capstone Project                   |  
 
 ---------------------------------------------------------------------
 ### Intermediate +
