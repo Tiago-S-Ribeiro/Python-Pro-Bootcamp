@@ -6,7 +6,7 @@ Completing the [100 Days of Code](https://www.udemy.com/course/100-days-of-code/
 Day 1 - [Band Name Generator](100_days_of_code/Beginner/day_1.py) &nbsp;&nbsp;&nbsp; (Working with variables)  
 Day 2 - [Tip Calculator](100_days_of_code/Beginner/day_2.py) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (Understanding data types)  
 Day 3 - [Treasure Island](100_days_of_code/Beginner/day_3.py) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (Control Flow and Logical Operators)  
-Day 4 - [Rock Paper Scissors](100_days_of_code/Beginner/day_4.py)   (Randomisation and Lists)  
+Day 4 - [Rock Paper Scissors](100_days_of_code/Beginner/day_4.py) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (Randomisation and Lists)  
 Day 5 - [Fizz Buzz](100_days_of_code/Beginner/day_5.py)             (Loops)  
 Day 6 - [Password Generator](100_days_of_code/Beginner/day_6.py)    (Functions)  
 Day 7 - [Hangman](100_days_of_code/Beginner/day_7.py)               (Functions)  
