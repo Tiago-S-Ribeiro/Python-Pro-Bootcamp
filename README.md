@@ -26,9 +26,10 @@
 ---------------------------------------------------------------------
 ### Intermediate  
 
-|              | Project                                                   | Subject                            |
-|:------------ |:--------------------------------------------------------- |:---------------------------------- |
-|**Day 15**    | [Coffee Machine](100_days_of_code/Intermediate/day_15)    | Capstone Project                   |  
+|              | Project                                                       | Subject                            |
+|:------------ |:---------------------------------------------------------     |:---------------------------------- |
+|**Day 15**    | [Coffee Machine](100_days_of_code/Intermediate/day_15)        | Capstone Project                   |  
+|**Day 16**    | [Coffee Machine w/ OOP](100_days_of_code/Intermediate/day_16) | Object Oriented Programming        |  
 
 ---------------------------------------------------------------------
 ### Intermediate +
