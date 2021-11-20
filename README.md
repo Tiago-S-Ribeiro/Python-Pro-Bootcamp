@@ -31,7 +31,8 @@
 |**Day 15**    | [Coffee Machine](100_days_of_code/Intermediate/day_15)        | Capstone Project                   |  
 |**Day 16**    | [Coffee Machine w/ OOP](100_days_of_code/Intermediate/day_16) | Object Oriented Programming I      |  
 |**Day 17**    | [Trivia Quiz](100_days_of_code/Intermediate/day_17)           | Object Oriented Programming II     | 
-|**Day 18**    | [Trivia Quiz](100_days_of_code/Intermediate/day_18)           | Object Oriented Programming III    | 
+|**Day 18**    | [Hirst Spot Painting](100_days_of_code/Intermediate/day_18)   | Object Oriented Programming III    | 
+|**Day 19**    | [Etch-A-Sketch](100_days_of_code/Intermediate/day_19)<br>[Turtle Race](100_days_of_code/Intermediate/day_19)          | Object Oriented Programming IV     | 
 
 ---------------------------------------------------------------------
 ### Intermediate +
