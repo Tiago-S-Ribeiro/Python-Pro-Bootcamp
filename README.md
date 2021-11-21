@@ -33,7 +33,8 @@
 |**Day 17**    | [Trivia Quiz](100_days_of_code/Intermediate/day_17)           | Object Oriented Programming II     | 
 |**Day 18**    | [Hirst Spot Painting](100_days_of_code/Intermediate/day_18)   | Object Oriented Programming III    | 
 |**Day 19**    | [Etch-A-Sketch](100_days_of_code/Intermediate/day_19/etc-a-sketch)<br>[Turtle Race](100_days_of_code/Intermediate/day_19/turtle-race)          | Object Oriented Programming IV     | 
-|**Day 20**    | [Snake Game: Part I](100_days_of_code/Intermediate/day_20)   | Object Oriented Programming V    | 
+|**Day 20**    | [Snake Game: Part I](100_days_of_code/Intermediate/day_20)    | Object Oriented Programming V      | 
+|**Day 21**    | [Snake Game: Part II](100_days_of_code/Intermediate/day_21)   | Object Oriented Programming VI     | 
 
 ---------------------------------------------------------------------
 ### Intermediate +
