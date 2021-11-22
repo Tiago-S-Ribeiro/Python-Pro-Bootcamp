@@ -9,6 +9,6 @@
 |**Day 19**    | [Etch-A-Sketch](day_19/etc-a-sketch)<br>[Turtle Race](day_19/turtle-race)          | Object Oriented Programming IV     | 
 |**Day 20**    | [Snake Game: Part I](day_20)            | Object Oriented Programming V      | 
 |**Day 21**    | [Snake Game: Part II](day_21)           | Object Oriented Programming VI     |
-|**Day 21**    | [Pong Game](day_22)                     | Object Oriented Programming VII    | 
+|**Day 21**    | [Pong Game](day_22)                     | Capstone Project                   | 
 
 ---------------------------------------------------------------------
