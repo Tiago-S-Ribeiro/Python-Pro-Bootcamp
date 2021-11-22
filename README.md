@@ -35,6 +35,7 @@
 |**Day 19**    | [Etch-A-Sketch](100_days_of_code/Intermediate/day_19/etc-a-sketch)<br>[Turtle Race](100_days_of_code/Intermediate/day_19/turtle-race)          | Object Oriented Programming IV     | 
 |**Day 20**    | [Snake Game: Part I](100_days_of_code/Intermediate/day_20)    | Object Oriented Programming V      | 
 |**Day 21**    | [Snake Game: Part II](100_days_of_code/Intermediate/day_21)   | Object Oriented Programming VI     | 
+|**Day 21**    | [Pong Game](100_days_of_code/Intermediate/day_212)            | Capstone Project                   | 
 
 ---------------------------------------------------------------------
 ### Intermediate +
