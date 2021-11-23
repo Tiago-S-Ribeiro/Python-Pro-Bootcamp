@@ -10,5 +10,6 @@
 |**Day 20**    | [Snake Game: Part I](day_20)            | Object Oriented Programming V      | 
 |**Day 21**    | [Snake Game: Part II](day_21)           | Object Oriented Programming VI     |
 |**Day 22**    | [Pong Game](day_22)                     | Capstone Project                   | 
+|**Day 23**    | [The Turtle Crossing Game](day_23)      | Capstone Project                   | 
 
 ---------------------------------------------------------------------
