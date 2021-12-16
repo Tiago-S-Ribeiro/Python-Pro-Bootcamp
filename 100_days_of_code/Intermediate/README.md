@@ -13,5 +13,6 @@
 |**Day 23**    | [The Turtle Crossing Game](day_23)      | Capstone Project                   | 
 |**Day 24**    | [Mail Merge Challenge](day_24)          | Open/Read/Write Files              | 
 |**Day 25**    | [Guess the States Game](day_25)         | CSV Data & Pandas Library          | 
+|**Day 26**    | [NATO Alphabet](day_26)                 | Lists/Dictionaries Comprehension   |
 
 ---------------------------------------------------------------------
