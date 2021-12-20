@@ -1,1 +1,1 @@
-<img align="center" width="600" height="" src="/repo_files/day_27.png">
+<img align="middle" width="600" height="" src="/repo_files/day_27.png">
