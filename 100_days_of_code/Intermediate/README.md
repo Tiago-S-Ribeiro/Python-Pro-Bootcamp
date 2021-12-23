@@ -15,5 +15,6 @@
 |**Day 25**    | [Guess the States Game](day_25)         | CSV Data & Pandas Library          | 
 |**Day 26**    | [NATO Alphabet](day_26)                 | Lists/Dictionaries Comprehension   |
 |**Day 27**    | [Miles to Km Converter](day_27)         | \*args, \*kwargs, Tkinter, GUI Applications |
+|**Day 28**    | [The Pomodoro App](day_28)              | Tkinter, GUI, Dynamic Typing       |
 
 ---------------------------------------------------------------------
