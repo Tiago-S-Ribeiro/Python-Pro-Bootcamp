@@ -41,6 +41,7 @@
 |**Day 25**    | [Guess the States Game](100_days_of_code/Intermediate/day_25) | CSV Data & Pandas Library          |
 |**Day 26**    | [NATO Alphabet](100_days_of_code/Intermediate/day_26)         | Lists/Dictionaries Comprehension   |
 |**Day 27**    | [Miles to Km Converter](100_days_of_code/Intermediate/day_27) | \*args, \*kwargs, Tkinter, GUI Applications   |
+|**Day 28**    | [The Pomodoro App](100_days_of_code/Intermediate/day_28)      | Tkinter, GUI, Dynamic Typing       |
 
 ---------------------------------------------------------------------
 ### Intermediate +
