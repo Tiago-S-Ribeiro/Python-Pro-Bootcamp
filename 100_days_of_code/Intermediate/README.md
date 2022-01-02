@@ -16,5 +16,6 @@
 |**Day 26**    | [NATO Alphabet](day_26)                 | Lists/Dictionaries Comprehension   |
 |**Day 27**    | [Miles to Km Converter](day_27)         | \*args, \*kwargs, Tkinter, GUI Applications |
 |**Day 28**    | [The Pomodoro App](day_28)              | Tkinter, GUI, Dynamic Typing       |
+|**Day 29**    | [Password Manager](day_29)              | Tkinter Capstone Project.          |
 
 ---------------------------------------------------------------------
