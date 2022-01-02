@@ -1,1 +1,0 @@
-<img align="middle" width="400" height="" src="/repo_files/day_28.png">%
