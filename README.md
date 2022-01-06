@@ -42,7 +42,8 @@
 |**Day 26**    | [NATO Alphabet](100_days_of_code/Intermediate/day_26)         | Lists/Dictionaries Comprehension   |
 |**Day 27**    | [Miles to Km Converter](100_days_of_code/Intermediate/day_27) | \*args, \*kwargs, Tkinter, GUI Applications   |
 |**Day 28**    | [The Pomodoro App](100_days_of_code/Intermediate/day_28)      | Tkinter, GUI, Dynamic Typing       |
-|**Day 29**    | [Password Manager](100_days_of_code/Intermediate/day_29)      | Tkinter Capstone Project.          |
+|**Day 29**    | [Password Manager](100_days_of_code/Intermediate/day_29)      | Tkinter Capstone Project           |
+|**Day 30**    | [Password Manager V2](100_days_of_code/Intermediate/day_30)   | Tkinter Capstone Project V2        |
 
 ---------------------------------------------------------------------
 ### Intermediate +
