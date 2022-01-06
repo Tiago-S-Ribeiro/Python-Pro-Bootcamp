@@ -30,14 +30,14 @@ def save():
             }
         }
         try:
-            with open(f"/Users/tiago.soaresribeiro/Documents/Personal_Docs/Python-Pro-Bootcamp/100_days_of_code/Intermediate/day_30/data.json", "r") as file:
+            with open(f"./data.json", "r") as file:
                 file_data = json.load(file)
         except FileNotFoundError:
-            with open(f"/Users/tiago.soaresribeiro/Documents/Personal_Docs/Python-Pro-Bootcamp/100_days_of_code/Intermediate/day_30/data.json", "w") as file:
+            with open(f"./data.json", "w") as file:
                 json.dump(new_data, file, indent=4)
         else:
             file_data.update(new_data)
-            with open(f"/Users/tiago.soaresribeiro/Documents/Personal_Docs/Python-Pro-Bootcamp/100_days_of_code/Intermediate/day_30/data.json", "w") as file:
+            with open(f"./data.json", "w") as file:
                 json.dump(file_data, file, indent=4)
         finally:
             website.delete(0, END)
@@ -49,7 +49,7 @@ def save():
 # ---------------------------- SAVE PASSWORD ------------------------------- #
 def find_pwd():
     try:
-        with open(f"/Users/tiago.soaresribeiro/Documents/Personal_Docs/Python-Pro-Bootcamp/100_days_of_code/Intermediate/day_30/data.json", "r") as file:
+        with open(f"./data.json", "r") as file:
             file_data = json.load(file)
     except FileNotFoundError:
         messagebox.showinfo(message="No data file found!")
@@ -68,7 +68,7 @@ window.config(padx=50, pady=50)
 
 #Canvas
 canvas = tkinter.Canvas(width=200, height=200)
-logo_img = tkinter.PhotoImage(file="/Users/tiago.soaresribeiro/Documents/Personal_Docs/Python-Pro-Bootcamp/100_days_of_code/Intermediate/day_30/logo.png")
+logo_img = tkinter.PhotoImage(file="./logo.png")
 canvas.create_image(100, 100, image=logo_img)
 #Labels
 website_label = tkinter.Label(text="Website:")
