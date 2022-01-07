@@ -17,6 +17,7 @@
 |**Day 27**    | [Miles to Km Converter](day_27)         | \*args, \*kwargs, Tkinter, GUI Applications |
 |**Day 28**    | [The Pomodoro App](day_28)              | Tkinter, GUI, Dynamic Typing       |
 |**Day 29**    | [Password Manager](day_29)              | Tkinter Capstone Project           |
-|**Day 30**    | [Password Manager V2](day_30)           | Tkinter Capstone Project V2        |
+|**Day 30**    | [Password Manager V2](day_30)           | Errors, Exceptions & JSON Data     |
+|**Day 31**    | [Flash Cards](day_31)                   | Capstone Project                   |
 
 ---------------------------------------------------------------------
