@@ -51,7 +51,7 @@
 
 |              | Project                                                       | Subject                            |
 |:------------ |:---------------------------------------------------------     |:---------------------------------- |
-|**Day 32**    | [Automated Birthday Wisher](100_days_of_code/Intermediate/day_32) | Email sending (smtplib) & Datetime |
+|**Day 32**    | [Automated Birthday Wisher](100_days_of_code/Intermediate+/day_32) | Email sending (smtplib) & Datetime |
 
 ---------------------------------------------------------------------
 ### Web Foundation
