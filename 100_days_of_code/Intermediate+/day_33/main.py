@@ -1,6 +1,7 @@
 import requests
 import datetime as dt
 import smtplib
+import time
 from data import HOST_SERVER, EML, PWD, DST
 
 MY_LAT = 38.723308
@@ -44,7 +45,9 @@ def send_email(message):
 
 #------------------------------------------------------------------------------------------
 
-if iss_is_visible(MY_LAT, MY_LNG) and is_nightime():
-    send_email("\nLook Up! ☝🏼\n")
-else:
-    print("\nISS is still not near enough.\n")
+while True:
+    time.sleep(30)
+    if iss_is_visible(MY_LAT, MY_LNG) and is_nightime():
+        send_email("\nLook Up! ☝🏼\n")
+    else:
+        print("\nISS is still not near enough.\n")
