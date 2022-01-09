@@ -53,6 +53,7 @@
 |:------------ |:---------------------------------------------------------     |:---------------------------------- |
 |**Day 32**    | [Automated Birthday Wisher](100_days_of_code/Intermediate+/day_32) | Email sending (smtplib) & Datetime |
 |**Day 33**    | [ISS Overhead Notifier](100_days_of_code/Intermediate+/day_33)| API Endpoints & Parameters         |
+|**Day 34**    | [Open Trivia API Quiz](100_days_of_code/Intermediate+/day_34) | API Endpoints & Parameters II      |
 
 ---------------------------------------------------------------------
 ### Web Foundation
