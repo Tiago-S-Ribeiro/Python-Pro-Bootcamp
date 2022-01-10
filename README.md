@@ -55,7 +55,7 @@
 |**Day 33**    | [ISS Overhead Notifier](100_days_of_code/Intermediate+/day_33)| API Endpoints & Parameters         |
 |**Day 34**    | [Open Trivia API Quiz](100_days_of_code/Intermediate+/day_34) | API Endpoints & Parameters II      |
 |**Day 35**    | [SMS Rain Alerter](100_days_of_code/Intermediate+/day_35)     | API's & Environment Variables      |
-
+|**Day 36**    | [Stock Trading News Alerter](100_days_of_code/Intermediate+/day_36)     | SMS, API's & Environment Variables |
 
 ---------------------------------------------------------------------
 ### Web Foundation
