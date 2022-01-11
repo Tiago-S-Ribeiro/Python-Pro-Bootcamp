@@ -56,6 +56,7 @@
 |**Day 34**    | [Open Trivia API Quiz](100_days_of_code/Intermediate+/day_34) | API Endpoints & Parameters II      |
 |**Day 35**    | [SMS Rain Alerter](100_days_of_code/Intermediate+/day_35)     | API's & Environment Variables      |
 |**Day 36**    | [Stock Trading News Alerter](100_days_of_code/Intermediate+/day_36)     | SMS, API's & Environment Variables |
+|**Day 37**    | [Habit Tracker](100_days_of_code/Intermediate+/day_37)        | POST, PUT, DEL, Headers, Pixela API|
 
 ---------------------------------------------------------------------
 ### Web Foundation
