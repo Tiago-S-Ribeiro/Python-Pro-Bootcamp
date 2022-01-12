@@ -57,6 +57,7 @@
 |**Day 35**    | [SMS Rain Alerter](100_days_of_code/Intermediate+/day_35)     | API's & Environment Variables      |
 |**Day 36**    | [Stock Trading News Alerter](100_days_of_code/Intermediate+/day_36)     | SMS, API's & Environment Variables |
 |**Day 37**    | [Habit Tracker](100_days_of_code/Intermediate+/day_37)        | POST, PUT, DEL, Headers, Pixela API|
+|**Day 38**    | [Workout Tracker w/ Google Sheets](100_days_of_code/Intermediate+/day_38) | Nutritionix and Sheety API's   |
 
 ---------------------------------------------------------------------
 ### Web Foundation
