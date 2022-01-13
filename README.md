@@ -51,13 +51,14 @@
 
 |              | Project                                                       | Subject                            |
 |:------------ |:---------------------------------------------------------     |:---------------------------------- |
-|**Day 32**    | [Automated Birthday Wisher](100_days_of_code/Intermediate+/day_32) | Email sending (smtplib) & Datetime |
+|**Day 32**    | [Automated Birthday Wisher](100_days_of_code/Intermediate+/day_32)  | Email sending (smtplib) & Datetime |
 |**Day 33**    | [ISS Overhead Notifier](100_days_of_code/Intermediate+/day_33)| API Endpoints & Parameters         |
 |**Day 34**    | [Open Trivia API Quiz](100_days_of_code/Intermediate+/day_34) | API Endpoints & Parameters II      |
 |**Day 35**    | [SMS Rain Alerter](100_days_of_code/Intermediate+/day_35)     | API's & Environment Variables      |
-|**Day 36**    | [Stock Trading News Alerter](100_days_of_code/Intermediate+/day_36)     | SMS, API's & Environment Variables |
+|**Day 36**    | [Stock Trading News Alerter](100_days_of_code/Intermediate+/day_36) | SMS, API's & Environment Variables |
 |**Day 37**    | [Habit Tracker](100_days_of_code/Intermediate+/day_37)        | POST, PUT, DEL, Headers, Pixela API|
-|**Day 38**    | [Workout Tracker w/ Google Sheets](100_days_of_code/Intermediate+/day_38) | Nutritionix and Sheety API's   |
+|**Day 38**    | [Workout Tracker w/ Google Sheets](100_days_of_code/Intermediate+/day_38) | Nutritionix and Sheety API's |
+|**Day 39**    | [Flight Deals Finder](100_days_of_code/Intermediate+/day_39)  | Capstone Project (Part 1)          |
 
 ---------------------------------------------------------------------
 ### Web Foundation
