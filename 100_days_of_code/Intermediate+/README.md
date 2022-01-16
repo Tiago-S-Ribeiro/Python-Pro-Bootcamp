@@ -8,6 +8,8 @@
 |**Day 35**    | [SMS Rain Alerter](day_35)              | API's & Environment Variables      |
 |**Day 36**    | [Stock Trading News Alerter](day_36)    | SMS, API's & Environment Variables |
 |**Day 37**    | [Habit Tracker](day_37)                 | POST, PUT, DEL, Headers, Pixela API|
-|**Day 38**    | [Workout Tracker w/ Google Sheets](day_38) | Nutritionix and Sheety API's   |
+|**Day 38**    | [Workout Tracker w/ Google Sheets](day_38) | Nutritionix and Sheety API's    |
+|**Day 39**    | [Flight Deals Finder I](day_39)         | Capstone Project (Part 1)          |
+|**Day 40**    | [Flight Deals Finder II](day_40)        | Capstone Project (Part 2)          |
 
 ---------------------------------------------------------------------
