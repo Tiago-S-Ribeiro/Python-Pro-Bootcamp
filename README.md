@@ -58,7 +58,8 @@
 |**Day 36**    | [Stock Trading News Alerter](100_days_of_code/Intermediate+/day_36) | SMS, API's & Environment Variables |
 |**Day 37**    | [Habit Tracker](100_days_of_code/Intermediate+/day_37)        | POST, PUT, DEL, Headers, Pixela API|
 |**Day 38**    | [Workout Tracker w/ Google Sheets](100_days_of_code/Intermediate+/day_38) | Nutritionix and Sheety API's |
-|**Day 39**    | [Flight Deals Finder](100_days_of_code/Intermediate+/day_39)  | Capstone Project (Part 1)          |
+|**Day 39**    | [Flight Deals Finder I](100_days_of_code/Intermediate+/day_39)  | Capstone Project (Part 1)          |
+|**Day 40**    | [Flight Deals Finder II](100_days_of_code/Intermediate+/day_40) | Capstone Project (Part 2)          |
 
 ---------------------------------------------------------------------
 ### Web Foundation
