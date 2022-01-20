@@ -64,5 +64,12 @@
 ---------------------------------------------------------------------
 ### Web Foundation
 
+|              | Project                                                       | Subject                            |
+|:------------ |:---------------------------------------------------------     |:---------------------------------- |
+|**Day 41**    | [Introduction to HTML](100_days_of_code/Intermediate+/day_41) | Web Foundations - HTML             |
+|**Day 42**    | [Intermediate HTML](100_days_of_code/Intermediate+/day_42)    | Web Foundations - HTML             |
+|**Day 43**    | [Introduction to CSS](100_days_of_code/Intermediate+/day_43)  | Web Foundations - CSS              |
+|**Day 44**    | [Intermediate CSS](100_days_of_code/Intermediate+/day_44)     | Web Foundations - CSS              |
+
 ---------------------------------------------------------------------
 ### Advanced
