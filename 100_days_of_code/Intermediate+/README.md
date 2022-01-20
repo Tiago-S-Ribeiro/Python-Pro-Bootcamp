@@ -11,5 +11,9 @@
 |**Day 38**    | [Workout Tracker w/ Google Sheets](day_38) | Nutritionix and Sheety API's    |
 |**Day 39**    | [Flight Deals Finder I](day_39)         | Capstone Project (Part 1)          |
 |**Day 40**    | [Flight Deals Finder II](day_40)        | Capstone Project (Part 2)          |
+|**Day 41**    | [Introduction to HTML](day_41)          | Web Foundation - HTML              |
+|**Day 42**    | [Intermediate HTML](day_42)             | Web Foundation - HTML              |
+|**Day 43**    | [Introduction to CSS](day_43)           | Web Foundation - CSS               |
+|**Day 44**    | [Intermediate CSS](day_44)              | Web Foundation - CSS               |
 
 ---------------------------------------------------------------------
