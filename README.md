@@ -60,10 +60,10 @@
 |**Day 38**    | [Workout Tracker w/ Google Sheets](100_days_of_code/Intermediate+/day_38) | Nutritionix and Sheety API's |
 |**Day 39**    | [Flight Deals Finder I](100_days_of_code/Intermediate+/day_39)  | Capstone Project (Part 1)        |
 |**Day 40**    | [Flight Deals Finder II](100_days_of_code/Intermediate+/day_40) | Capstone Project (Part 2)        |
-|**Day 41**    | [Introduction to HTML](100_days_of_code/Intermediate+/day_41) | Web Foundations - HTML             |
-|**Day 42**    | [Intermediate HTML](100_days_of_code/Intermediate+/day_42)    | Web Foundations - HTML             |
-|**Day 43**    | [Introduction to CSS](100_days_of_code/Intermediate+/day_43)  | Web Foundations - CSS              |
-|**Day 44**    | [Intermediate CSS](100_days_of_code/Intermediate+/day_44)     | Web Foundations - CSS              |
+|**Day 41**    | [Introduction to HTML](100_days_of_code/Intermediate+/day_41) | Web Foundations - HTML I           |
+|**Day 42**    | [Basic HTML](100_days_of_code/Intermediate+/day_42)           | Web Foundations - HTML II          |
+|**Day 43**    | [Introduction to CSS](100_days_of_code/Intermediate+/day_43)  | Web Foundations - CSS I            |
+|**Day 44**    | [Basic CSS](100_days_of_code/Intermediate+/day_44)            | Web Foundations - CSS II           |
 
 ---------------------------------------------------------------------
 ### Advanced
