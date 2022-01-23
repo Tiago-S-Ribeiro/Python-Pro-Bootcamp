@@ -14,6 +14,6 @@
 |**Day 41**    | [Introduction to HTML](day_41)          | Web Foundations - HTML I           |
 |**Day 42**    | [Basic HTML](day_42)                    | Web Foundations - HTML II          |
 |**Day 43**    | [Introduction to CSS](day_43)           | Web Foundations - CSS I            |
-|**Day 44**    | [Basic CSS](day_44)                     | Web Foundations - CSS II           |
+|**Day 44**    | [Personal Website](day_44)              | Web Foundations - CSS II           |
 
 ---------------------------------------------------------------------
