@@ -63,7 +63,7 @@
 |**Day 41**    | [Introduction to HTML](100_days_of_code/Intermediate+/day_41) | Web Foundations - HTML I           |
 |**Day 42**    | [Basic HTML](100_days_of_code/Intermediate+/day_42)           | Web Foundations - HTML II          |
 |**Day 43**    | [Introduction to CSS](100_days_of_code/Intermediate+/day_43)  | Web Foundations - CSS I            |
-|**Day 44**    | [Basic CSS](100_days_of_code/Intermediate+/day_44)            | Web Foundations - CSS II           |
+|**Day 44**    | [Personal Website](100_days_of_code/Intermediate+/day_44)     | Web Foundations - CSS II           |
 
 ---------------------------------------------------------------------
 ### Advanced
