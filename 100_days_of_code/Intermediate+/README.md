@@ -15,5 +15,6 @@
 |**Day 42**    | [Basic HTML](day_42)                    | Web Foundations - HTML II          |
 |**Day 43**    | [Introduction to CSS](day_43)           | Web Foundations - CSS I            |
 |**Day 44**    | [Personal Website](day_44)              | Web Foundations - CSS II           |
+|**Day 45**    | [Top 100 Movies Web Scrapper](day_45)   | Web Scraping w/ Beautiful Soup     |
 
 ---------------------------------------------------------------------
