@@ -64,6 +64,7 @@
 |**Day 42**    | [Basic HTML](100_days_of_code/Intermediate+/day_42)           | Web Foundations - HTML II          |
 |**Day 43**    | [Introduction to CSS](100_days_of_code/Intermediate+/day_43)  | Web Foundations - CSS I            |
 |**Day 44**    | [Personal Website](100_days_of_code/Intermediate+/day_44)     | Web Foundations - CSS II           |
+|**Day 45**    | [Top 100 Movies Web Scrapper](100_days_of_code/Intermediate+/day_45)     | Web Scraping w/ Beautiful Soup           |
 
 ---------------------------------------------------------------------
 ### Advanced
