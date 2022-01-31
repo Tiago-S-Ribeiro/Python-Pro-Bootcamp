@@ -64,8 +64,9 @@
 |**Day 42**    | [Basic HTML](100_days_of_code/Intermediate+/day_42)           | Web Foundations - HTML II          |
 |**Day 43**    | [Introduction to CSS](100_days_of_code/Intermediate+/day_43)  | Web Foundations - CSS I            |
 |**Day 44**    | [Personal Website](100_days_of_code/Intermediate+/day_44)     | Web Foundations - CSS II           |
-|**Day 45**    | [Top 100 Movies Web Scrapper](100_days_of_code/Intermediate+/day_45)     | Web Scraping w/ Beautiful Soup           |
-|**Day 46**    | [Spotify's Billboard Top 100](100_days_of_code/Intermediate+/day_46)     | Web Scraping, Spotify                    |
+|**Day 45**    | [Top 100 Movies Web Scrapper](100_days_of_code/Intermediate+/day_45) | Web Scraping w/ Beautiful Soup    |
+|**Day 46**    | [Spotify's Billboard Top 100](100_days_of_code/Intermediate+/day_46) | Web Scraping, Spotify             |
+|**Day 47**    | [Amazon Price Tracker](100_days_of_code/Intermediate+/day_47) | Web Scraping, Amazon               |
 
 ---------------------------------------------------------------------
 ### Advanced
