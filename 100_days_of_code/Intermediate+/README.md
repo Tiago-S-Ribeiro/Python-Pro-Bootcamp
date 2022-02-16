@@ -18,5 +18,6 @@
 |**Day 45**    | [Top 100 Movies Web Scrapper](day_45)   | Web Scraping w/ Beautiful Soup     |
 |**Day 46**    | [Spotify's Billboard Top 100](day_46)   | Web Scraping, Spotify              |
 |**Day 47**    | [Amazon Price Tracker](day_47)          | Web Scraping, Amazon               |
+|**Day 48**    | [Gameplaying Bot](day_48)               | Selenium Webdriver, Cookie Clicker |
 
 ---------------------------------------------------------------------
