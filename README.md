@@ -68,6 +68,7 @@
 |**Day 46**    | [Spotify's Billboard Top 100](100_days_of_code/Intermediate+/day_46) | Web Scraping, Spotify             |
 |**Day 47**    | [Amazon Price Tracker](100_days_of_code/Intermediate+/day_47) | Web Scraping, Amazon               |
 |**Day 48**    | [Gameplaying Bot](100_days_of_code/Intermediate+/day_48)      | Selenium Webdriver, Cookie Clicker |
+|**Day 48**    | [LinkedIn Listings Bot](100_days_of_code/Intermediate+/day_49)| Selenium Webdriver                 |
 
 ---------------------------------------------------------------------
 ### Advanced
