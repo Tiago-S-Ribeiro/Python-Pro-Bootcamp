@@ -20,5 +20,7 @@
 |**Day 47**    | [Amazon Price Tracker](day_47)          | Web Scraping, Amazon               |
 |**Day 48**    | [Gameplaying Bot](day_48)               | Selenium Webdriver, Cookie Clicker |
 |**Day 49**    | [LinkedIn Listings Bot](day_49)         | Selenium Webdriver                 |
+|**Day 50**    | [Tinder Swipe Bot](day_50)              | Selenium Webdriver                 |
+|**Day 51**    | [Internet Speed Twitter Bot](day_51)    | Selenium Webdriver                 |
 
 ---------------------------------------------------------------------
