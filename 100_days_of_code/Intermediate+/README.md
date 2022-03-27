@@ -22,5 +22,6 @@
 |**Day 49**    | [LinkedIn Listings Bot](day_49)         | Selenium Webdriver                 |
 |**Day 50**    | [Tinder Swipe Bot](day_50)              | Selenium Webdriver                 |
 |**Day 51**    | [Internet Speed Twitter Bot](day_51)    | Selenium Webdriver                 |
+|**Day 52**    | [Instagram Follower Bot](day_52)        | Selenium Webdriver                 |
 
 ---------------------------------------------------------------------
