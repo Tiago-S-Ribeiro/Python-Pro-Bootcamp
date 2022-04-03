@@ -23,5 +23,6 @@
 |**Day 50**    | [Tinder Swipe Bot](day_50)              | Selenium Webdriver                 |
 |**Day 51**    | [Internet Speed Twitter Bot](day_51)    | Selenium Webdriver                 |
 |**Day 52**    | [Instagram Follower Bot](day_52)        | Selenium Webdriver                 |
+|**Day 53**    | [Real Estate Listings Finder](day_53)   | Capstone Project                   |
 
 ---------------------------------------------------------------------
