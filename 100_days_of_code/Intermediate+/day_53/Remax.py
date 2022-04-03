@@ -16,7 +16,7 @@ class FindRemaxListings:
         all_listings = []
         page = 0
         results = [""]
-        
+
         while len(results)>0:
             response = requests.post(f"https://www.remax.pt/Api/Listing/MultiMatchSearch?page={page}&searchValue=&size=20", headers=HEADERS, data=json.dumps(self.get_body()))
             response.raise_for_status()
