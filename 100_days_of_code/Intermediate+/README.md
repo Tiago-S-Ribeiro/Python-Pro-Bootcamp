@@ -1,4 +1,4 @@
-# Beginner
+# Intermediate+
 
 |              | Project                                 | Subject                            |
 |:------------ |:--------------------------------------- |:---------------------------------- |
@@ -24,5 +24,6 @@
 |**Day 51**    | [Internet Speed Twitter Bot](day_51)    | Selenium Webdriver                 |
 |**Day 52**    | [Instagram Follower Bot](day_52)        | Selenium Webdriver                 |
 |**Day 53**    | [Real Estate Listings Finder](day_53)   | Capstone Project                   |
+|**Day 54**    | [Python Decoratores](day_54)            | @ Syntax & Python Decorators       |
 
 ---------------------------------------------------------------------
