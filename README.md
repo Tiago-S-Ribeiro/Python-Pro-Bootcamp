@@ -73,6 +73,7 @@
 |**Day 51**    | [Internet Speed Twitter Bot](100_days_of_code/Intermediate+/day_51)  | Selenium Webdriver                |
 |**Day 52**    | [Instagram Follower Bot](100_days_of_code/Intermediate+/day_52)      | Selenium Webdriver                |
 |**Day 53**    | [Real Estate Listings Finder](100_days_of_code/Intermediate+/day_53) | Capstone Project                  |
+|**Day 54**    | [Python Decorators](100_days_of_code/Intermediate+/day_54)    | @ Syntax & Python Decorators       |
 
 ---------------------------------------------------------------------
 ### Advanced
