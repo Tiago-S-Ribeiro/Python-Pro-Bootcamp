@@ -1,11 +1,13 @@
 import time
 
 def speed_calc_decorator(function):
-  start = time.time()
-  function()
-  end = time.time()
-  total = end - start
-  print(f"{function.__name__} run speed: {total}s")
+  def wrapper_function():
+    start = time.time()
+    function()
+    end = time.time()
+    total = end - start
+    print(f"{function.__name__} run speed: {total}s")
+  return wrapper_function
 
 @speed_calc_decorator
 def fast_function():
@@ -16,3 +18,6 @@ def fast_function():
 def slow_function():
     for i in range(100000000):
         i * i
+
+fast_function()
+slow_function()
